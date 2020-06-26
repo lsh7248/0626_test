@@ -14,7 +14,4 @@ Session Affinity:         None
 External Traffic Policy:  Cluster
 Events:                   <none> -->
 
-<!-- kubectl expose deployment/nginx2 --type="NodePort" --port 80
-kubectl.exe scale deployment nginx2 --replicas=20 -->
-
-kubectl.exe run nginx2 --image=leesh7248/ubuntu_nginx --port=80
+Deploy expose방법: kubectl expose deployment/nginx2 --type="NodePort" --port 80
