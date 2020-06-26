@@ -4,4 +4,4 @@
 
 2. RUN하는법: winpty docker run -it --name ubuntu_nginx -p 8888:80 leesh7248/ubuntu_nginx
 
-3. 결과: ![](nginx.png)
+3. 결과: ![](nginx.PNG)
