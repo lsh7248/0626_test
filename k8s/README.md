@@ -15,4 +15,4 @@ External Traffic Policy:  Cluster
 Events:                   <none> -->
 
 Deploy expose방법: kubectl expose deployment/nginx2 --type="NodePort" --port 80
-결과: 결과: ![](deploy.PNG)
+결과: ![](deploy.PNG)
